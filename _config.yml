@@ -80,7 +80,6 @@ theme_config:
   widgets:
    - tag
    - tagcloud
-   - archive
   fancybox: true
 
 archive_type: 'yearly'
