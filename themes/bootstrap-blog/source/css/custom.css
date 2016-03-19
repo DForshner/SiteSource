@@ -186,17 +186,17 @@ code {
  */
 
 .article {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 
-.article-header h1 {
+.article-header h3 {
   margin-top: 0;
   margin-bottom: 5px;
 }
-.article-header h1 a {
+.article-header h3 a {
   color: #333;
 }
-.article-header h1 a:hover {
+.article-header h3 a:hover {
   color: #23527c;
   text-decoration: none;
 }
