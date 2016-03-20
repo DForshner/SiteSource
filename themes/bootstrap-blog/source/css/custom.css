@@ -223,6 +223,10 @@ code {
 .article-entry>*:last-child {
   margin-bottom: 15px;
 }
+.article-entry blockquote {
+  padding: 5px 15px 5px 15px;
+  margin-bottom: 10px;
+}
 
 /* article footer content */
 .article-footer {
