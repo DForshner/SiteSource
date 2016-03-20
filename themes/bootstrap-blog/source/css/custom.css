@@ -154,7 +154,7 @@ code {
 
 /* Sidebar modules for boxing content */
 .sidebar-module {
-  padding: 15px;
+  padding: 5px 10px 5px 10px;
   margin: 0 -15px 15px;
 }
 .sidebar-module h4 {

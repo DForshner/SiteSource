@@ -79,7 +79,7 @@ theme_config:
     Resume: /pdfs/Resume.pdf
   widgets:
    - tag
-   - tagcloud
+   - reading_list
   fancybox: true
 
 archive_type: 'yearly'
