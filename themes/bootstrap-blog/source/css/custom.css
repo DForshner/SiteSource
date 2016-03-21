@@ -180,6 +180,16 @@ code {
   padding-left: 25px;
 }
 
+/*
+ * Tidbits
+ */
+.tidbit-list-item {
+	
+}
+
+.tidbit-list-item-hidden {
+	visibility: hidden;
+}
 
 /*
  * Blog posts

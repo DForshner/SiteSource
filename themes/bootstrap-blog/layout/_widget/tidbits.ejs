@@ -1,0 +1,13 @@
+<% if(site.data.tidbits) {%>
+  <div class="sidebar-module">
+    <h4>Random Tidbit</h4>
+    <ul class="sidebar-module-list">
+	  <% for (item in site.data.tidbits) { %>
+          <li class="sidebar-module-list-item tidbit-list-item tidbit-list-item-hidden">
+			<%= item %>
+		  </li>
+	  <% } %>
+    </ul>
+    <div class="tidbit-next">next</div>
+  </div>
+<% } %>
