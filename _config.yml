@@ -5,7 +5,7 @@
 # Site
 title: "~Blog"
 subtitle: "homepage/blog/site/etc."
-description: "David Forshner's homepage/blog/site/etc."
+description: "David Forshner's site/blog/foo/random"
 author: David Forshner 
 language:
 timezone: UTC
@@ -82,6 +82,8 @@ theme_config:
    - reading_list
    - tag
   fancybox: true
+  about_widget_content: >
+    <p>David Forshner's homepage/blog/bookmarks/stuff/etc.</p>
 
 archive_type: 'yearly'
 show_count: true
