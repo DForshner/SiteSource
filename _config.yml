@@ -82,6 +82,8 @@ theme_config:
    - reading_list
    - tag
   fancybox: true
+  google_analytics: UA-75403717-1
+  favicon: /images/favicon.png
   about_widget_content: >
     <p>David Forshner's homepage/blog/bookmarks/stuff/etc.</p>
 
