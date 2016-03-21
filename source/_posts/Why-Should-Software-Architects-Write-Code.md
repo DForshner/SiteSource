@@ -5,6 +5,7 @@ tags:
   - Empirical Study
   - Software Development
 ---
+This seems like common sense but then again I haven't encountered a non-coding architect as of yet.
 
 > This provides empirical evidence on why software architect should write code or, at least, be engaged in the development of tactical fragments in a system.
 

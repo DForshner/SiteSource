@@ -5,6 +5,7 @@ tags:
   - Books
   - μReview
 ---
-If you develop software you should read this book. It won't give you new keywords to put on your resume but it will help you to manage complexity and to write code you can understand in a year's time.
+- I'm forever recommending people buy this book.
+- Great advice on managing complexity and writing code you can understand in a year.
 
 [Goodreads](https://www.goodreads.com/book/show/4845.Code_Complete?utm_medium=api&amp;utm_source=blog_book)
