@@ -79,13 +79,14 @@ theme_config:
     Resume: /pdfs/Resume.pdf
     LinkedIn: https://www.linkedin.com/in/dforshner/
   widgets:
+   - about
    - reading_list
    - tag
   fancybox: true
   google_analytics: UA-75403717-1
   favicon: /images/favicon.png
   about_widget_content: >
-    <p>David Forshner's homepage/blog/bookmarks/stuff/etc.</p>
+    <p>sometimes on time && probably not profound</p>
 
 archive_type: 'yearly'
 show_count: true
