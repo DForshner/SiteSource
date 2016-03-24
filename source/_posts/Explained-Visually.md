@@ -5,6 +5,6 @@ tags:
   - Visual Learning
   - SVG
 ---
-Explained Visually has some pretty amazing visual explainations of different ideas.  If a picture is worth a 1000 words I wonder what SVG Animations go for?
+Explained Visually has some pretty amazing visual explanations of different ideas.  If a picture is worth a 1000 words what do SVG Animations go for?
 
 [Link](http://setosa.io/ev/)
