@@ -4,9 +4,9 @@
 
 # Site
 title: "~Blog"
-subtitle: "homepage/blog/site/etc."
-description: "David Forshner's site/blog/foo/random"
-author: David Forshner 
+subtitle: "David Forshner's blog/notebook/foo"
+description: "David Forshner's blog/notebook/foo"
+author: David Forshner
 language:
 timezone: UTC
 
