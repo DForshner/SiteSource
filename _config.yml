@@ -4,8 +4,8 @@
 
 # Site
 title: "~Blog"
-subtitle: "David Forshner's blog/notebook/foo"
-description: "David Forshner's blog/notebook/foo"
+subtitle: "David Forshner's blog/notebook/bookmarks/random"
+description: "David Forshner's blog/notebook/bookmarks/random"
 author: David Forshner
 language:
 timezone: UTC
@@ -70,6 +70,10 @@ deploy:
 ## Themes: https://hexo.io/themes/
 theme: bootstrap-blog 
 
+# https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+    path: sitemap.xml
+
 # Theme config
 theme_config:
   menu:
@@ -86,7 +90,7 @@ theme_config:
   google_analytics: UA-75403717-1
   favicon: /images/favicon.png
   about_widget_content: >
-    <p>sometimes on time && probably not profound</p>
+    <p>1/3 notebook 1/3 bookmarks 1/3 random</p>
 
 archive_type: 'yearly'
 show_count: true
