@@ -65,14 +65,15 @@ pagination_dir: page
 deploy:
   type:
 
-# Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+
 ## Themes: https://hexo.io/themes/
 theme: bootstrap-custom
 
 # https://github.com/hexojs/hexo-generator-sitemap
 sitemap:
-    path: sitemap.xml
+  path: sitemap.xml
 
 # Theme config
 theme_config:
@@ -100,3 +101,23 @@ theme_config:
 
 archive_type: 'yearly'
 show_count: true
+
+robotstxt:
+  useragent: "*"
+  allow: 
+    - /
+  disallow:
+    - /resume/
+    - /archives/
+    - /page/*/
+    - /categories/*/
+    - /tags/*/
+    - /js/
+    - /images/
+    - /css/
+    - /*.jpg$
+    - /*.jpeg$
+    - /*.gif$
+    - /*.png$
+    - /*.bmp$
+  sitemap: dforshner.github.io/sitemap
