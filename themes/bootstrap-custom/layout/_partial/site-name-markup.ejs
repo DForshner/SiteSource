@@ -1,0 +1,13 @@
+<% if (theme.google_analytics){ %>
+	<!-- Site Name Markup -->
+	<script type="application/ld+json">
+	{
+	  "@context" : "http://schema.org",
+	  "@type" : "WebSite",
+	  "name" : "<%= config.title %>",
+	  "alternateName" : "<%= config.description %>",
+	  "url" : "<%= config.url %>"
+	}
+	</script>
+	<!-- End Site Name Markup-->
+<% } %>
