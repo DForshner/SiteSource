@@ -119,3 +119,4 @@ robotstxt:
     - /*.gif$
     - /*.png$
     - /*.bmp$
+  sitemap: sitemap.xml
