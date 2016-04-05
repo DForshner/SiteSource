@@ -2,9 +2,9 @@
 title: Exploring Data Orientated Game Engines
 date: 2015-07-01 00:00:00
 tags:
+  - Exploring
   - Data Orientated Design
   - Game Engines
-  - Exploring
 ---
 I made a little proof of concept demo comparing an object orientated to a data orientated entity component system for fun.
 

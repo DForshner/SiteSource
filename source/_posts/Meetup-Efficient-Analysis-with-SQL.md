@@ -1,9 +1,9 @@
 ---
-title: Meetup - Efficient Analysis with SQL
+title: Efficient Analysis with SQL
 date: 2016-03-31 00:00:00
 tags:
-  - Data Science
   - Meetup
+  - Data Science
 ---
 The main part of the meetup was a presentation on tally tables, cross apply and normalization in SQL.  
 - Talley tables are used to replace while loops and fill in missing data.  Examples are shift tables, fiscal day tables, and holiday tables.

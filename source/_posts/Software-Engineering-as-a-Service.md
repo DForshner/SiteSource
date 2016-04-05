@@ -4,7 +4,6 @@ date: 2012-04-01 00:00:00
 tags:
   - Course
   - MOOC
-  - Coursera
   - μReview
 ---
 - I was impressed with how quickly I was able to put something together with Ruby on Rails.

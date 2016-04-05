@@ -4,7 +4,6 @@ date: 2013-05-14 00:00:00
 tags:
   - Course
   - MOOC
-  - Coursera
   - μReview
 ---
 - Gives a sense for how patterns evolve depending on their environment and the problem they are trying to address.

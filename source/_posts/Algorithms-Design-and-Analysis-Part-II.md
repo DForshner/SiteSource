@@ -4,7 +4,6 @@ date: 2015-05-29 13:23:00
 tags:
   - Course
   - MOOC
-  - Coursera
   - μReview
 ---
 - Tim Roughgarden does an amazing job explaining how different algorithms work and the problems they are trying to solve.
