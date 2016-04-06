@@ -6,7 +6,7 @@ tags:
   - Distributed Systems
   - μReview
 ---
-This book is still in pre-release and I've enjoyed every page of the first nine chapters.  It breaks a confusing field into logical pieces and then shows you how they fit together.  I'd recommend it to anyone who interested in databases or distributed systems.
+This book is still in pre-release and I've enjoyed the first nine chapters.  It breaks a confusing field into logical pieces and then shows you how they fit together.  I'd recommend it to anyone who interested in databases or distributed systems.
 
 - Does an amazing job of explaining the algorithms and data structures used to implement systems and what problems they are best at solving.
 - Focuses on concepts and avoids the mistake of only talking about particular products or implementations.

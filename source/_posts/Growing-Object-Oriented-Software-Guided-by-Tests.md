@@ -5,7 +5,8 @@ tags:
   - Books
   - μReview
 ---
-- There are some really amazing ideas in here but it can take a while to find them.
-- It gets a bit bogged down in implementation details.
+- Does a great job of showing how to use TDD and interfaces to build an application in pieces.
+- I think it presents a more realistic picture of software development than most books by showing you how code evolves as you work on it.
+- The case study section has long stretches of implementation details which I felt obscured the important points.
 
 [Goodreads](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests?utm_medium=api&amp;utm_source=blog_book)
