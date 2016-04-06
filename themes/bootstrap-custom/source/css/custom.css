@@ -25,7 +25,7 @@ h6, .h6 {
   margin-bottom: 15px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  color: #333;
+  color: #B65C49;
 }
 
 p {
@@ -56,7 +56,7 @@ code {
  */
 
 .navbar {
-  background-color: #000000;
+  background-color: #358452;
   -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
           box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 }
@@ -76,18 +76,20 @@ code {
 }
 
 .navbar-inverse .navbar-brand,
-.navbar-inverse .navbar-nav>li>a {
-  color: #cdddeb;
-  font-weight: 500;
+
+.navbar-inverse .navbar-nav > li > a {
+  font-size: 18px;
+  color: #E7F5ED;
+}
+
+.navbar-inverse .navbar-nav > li > a.active {
+  font-size: 18px;
+  color: #FFFFFF;
 }
 
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
   border-color: #cdddeb;
-}
-
-.navbar-inverse .navbar-nav>li>a.active {
-  color: #fff;
 }
 
 @media (min-width: 768px) {
@@ -163,7 +165,7 @@ code {
 }
 .sidebar-module-inset {
   padding: 15px;
-  background-color: #f5f5f5;
+  background-color: #EBF3EE;
   border-radius: 4px;
 }
 .sidebar-module-inset p:last-child,
@@ -203,12 +205,18 @@ code {
   margin-top: 0;
   margin-bottom: 5px;
 }
+
 .article-header h3 a {
-  color: #333;
+  color: #B65C49;
 }
+
 .article-header h3 a:hover {
-  color: #23527c;
+  color: #B65C49;
   text-decoration: none;
+}
+
+.archive-article-title {
+  color: #B65C49;
 }
 
 .article-meta {
@@ -289,17 +297,30 @@ code {
   margin-top: 0;
   margin-bottom: 30px;
 }
-#page-nav .pagination .active>* {
-  background-color: #428bca;
-  border-color: #428bca;
+#page-nav .pagination .active >* {
+  color: #FFFFFF;
+  background-color: #B65C49;
+  border-color: #B65C49;
 }
-#page-nav .pagination>li:last-child>* {
+#page-nav .pagination > li:last-child>* {
   border-top-right-radius: 30px;
   border-bottom-right-radius: 30px;
 }
-#page-nav .pagination>li:first-child>* {
+#page-nav .pagination > li:first-child>* {
   border-top-left-radius: 30px;
   border-bottom-left-radius: 30px;
+}
+#page-nav .page-number {
+  color: #B65C49;
+}
+#page-nav .page-next {
+  color: #B65C49;
+}
+#page-nav .page-prev {
+  color: #B65C49;
+}
+#page-nav .disabled > span {
+  color: #9AAB9F;
 }
 
 /*
@@ -308,9 +329,9 @@ code {
 
 .blog-footer {
   padding: 10px 0;
-  color: #9d9d9d;
+  color: #9AAB9F;
   text-align: center;
-  background-color: #000000;
+  background-color: #2C673B;
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
