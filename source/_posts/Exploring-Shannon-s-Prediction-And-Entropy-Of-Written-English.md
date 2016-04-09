@@ -12,30 +12,38 @@ I say mostly because I'm pretty sure I am measuring the entropy measurements for
 
 I did get interesting results for the top 10 unigrams and bigrams:
 
-| Unigram | Probability |
-| - | - | 
-| [ ] | 0.1826038 |
-| [e] | 0.1017603 |
-| [t] | 0.07308632 |
-| [a] | 0.06643674 |
-| [o] | 0.06226344 |
-| [n] | 0.05945337 |
-| [i] | 0.05626013 |
-| [h] | 0.05403983 |
-| [s] | 0.05258396 |
-| [r] | 0.04791417 |
+{% googlecharts PieChart 500 %}
+  Top 10 Unigrams
+  {"legend": "none", "pieSliceText": "label", "slices": { "0": { "color": "gray" } } }
+  'Unigram', 'Probability'
+  'other', 0.24359794
+  '" "', 0.1826038
+  'e', 0.1017603
+  't', 0.07308632
+  'a', 0.06643674
+  'o', 0.06226344
+  'n', 0.05945337
+  'i', 0.05626013
+  'h', 0.05403983
+  's', 0.05258396
+  'r', 0.04791417
+{% endgooglecharts %}
 
-| Bigram | Probability |
-| - | - | 
-| [e ] | 0.03586495 |
-| [ t] | 0.02825758 |
-| [d ] | 0.02448941 |
-| [he] | 0.02429185 |
-| [th] | 0.02381377 |
-| [ a] | 0.02245183 |
-| [s ] | 0.02028996 |
-| [t ] | 0.01880665 |
-| [ h] | 0.01607567 |
-| [in] | 0.01563341 |
+{% googlecharts PieChart 500 %}
+  Top 10 Bigrams
+  {"legend": { "position": "left" }, "pieSliceText": "label", "slices": { "0": { "color": "gray" }, "1": { "offset": 0.2 } } }
+  'Bigram', 'Probability'
+  'other', 0.80588987
+  '"e "', 0.03586495
+  '" t"', 0.02825758
+  '"d "', 0.02448941
+  '"he"', 0.02429185
+  '"th"', 0.02381377
+  '" a"', 0.02245183
+  '"s "', 0.02028996
+  '"t "', 0.01880665
+  '" h"', 0.01607567
+  '"in"', 0.01563341
+{% endgooglecharts %}
 
 [Source Code](https://github.com/DForshner/CSharpExperiments/blob/master/ShannonPredictionAndEntropyOfPrintedEnglish.cs)
