@@ -95,6 +95,7 @@ theme_config:
    - tag
   fancybox: true
   google_analytics: UA-75403717-1
+  disqus_shortname: dforshner.disqus.com
   favicon: /images/favicon.png
   about_widget_content: >
     <p>⅓ notebook ⅓ bookmarks ⅓ random</p>
