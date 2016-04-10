@@ -2,8 +2,8 @@
 title: Coverage Is Not Strongly Correlated With Test Suite Effectiveness
 date: 2015-12-01 18:31:15
 tags:
-  - Empirical Study
-  - Software Development
+  - Empirical Studies
+  - Software Development Practices
 ---
 No great surprises here.  I think people's time is better spent testing the common paths through their code and capturing important functional requirements.  I found the ideas in [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) and [There Are Only Two Roles of Code](http://simpleprogrammer.com/2012/10/21/there-are-only-two-roles-of-code/) were helpful in figuring out how to spend my test writing budget.
 
