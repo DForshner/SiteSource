@@ -2,7 +2,7 @@
 title: 'Algorithms Design and Analysis - Part 2'
 date: 2015-05-29 13:23:00
 tags:
-  - Course
+  - Courses
   - MOOC
   - μReview
 ---

@@ -2,7 +2,7 @@
 title: Pattern Oriented Software Architectures for Concurrent and Networked Software
 date: 2013-05-14 00:00:00
 tags:
-  - Course
+  - Courses
   - MOOC
   - μReview
 ---

@@ -2,7 +2,7 @@
 title: M101P MongoDB for Developers
 date: 2014-11-04 00:00:00
 tags:
-  - Course
+  - Courses
   - MOOC
   - μReview
 ---

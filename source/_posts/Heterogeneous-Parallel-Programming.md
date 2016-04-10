@@ -2,7 +2,7 @@
 title: Heterogeneous Parallel Programming
 date: 2014-04-17 00:00:00
 tags:
-  - Course
+  - Courses
   - MOOC
   - μReview
 ---
