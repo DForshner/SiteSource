@@ -22,14 +22,14 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   margin-top: 1em;
-  margin-bottom: 15px;
+  margin-bottom: 14px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   color: #B65C49;
 }
 
 p {
-  margin: 0 0 15px;
+  margin: 0 0 14px;
 }
 
 code {
@@ -37,7 +37,9 @@ code {
   font-size: 80%;
 }
 
-.fa { margin-right: 0.25em; }
+.fa { 
+  margin-right: 0.25em; 
+}
 
 /* Buttons */
 .btn {
@@ -81,7 +83,6 @@ code {
   font-size: 18px;
   color: #E7F5ED;
 }
-
 .navbar-inverse .navbar-nav > li > a.active {
   font-size: 18px;
   color: #FFFFFF;
@@ -157,14 +158,14 @@ code {
 /* Sidebar modules for boxing content */
 .sidebar-module {
   padding: 5px 10px 5px 10px;
-  margin: 0 -15px 15px;
+  margin: 0 -14px 14px;
 }
 .sidebar-module h4 {
   margin-top: 0;
   margin-bottom: 10px;
 }
 .sidebar-module-inset {
-  padding: 15px;
+  padding: 14px;
   background-color: #EBF3EE;
   border-radius: 4px;
 }
@@ -180,6 +181,9 @@ code {
 }
 .sidebar-module-list-child {
   padding-left: 25px;
+}
+.sidebar-module-list-link {
+	font-size: 14px;
 }
 
 /*
@@ -198,7 +202,7 @@ code {
  */
 
 .article {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .article-header h3 {
@@ -220,37 +224,41 @@ code {
 }
 
 .article-meta {
-  margin-bottom: 20px;
+  margin-bottom: 14px;
   color: #999;
   font-size: 0.9em;
 }
 .article-meta > * {
   display: inline-block;
-  margin-right: 15px;
+  margin-right: 14px;
 }
 .article-meta a {
   color: inherit;
 }
 
 .article-entry .article-more-link {
-  margin: 15px 0;
+  margin: 14px 0;
 }
 .article-entry .thumbnail .caption {
   padding: 0;
 }
-.article-entry>*:last-child {
-  margin-bottom: 15px;
+.article-entry > *:last-child {
+  margin-bottom: 14px;
 }
 .article-entry blockquote {
-  padding: 5px 15px 5px 15px;
+  padding: 5px 14px 5px 14px;
   margin-bottom: 10px;
+}
+
+.article-tag-list-link {
+  font-size: 14px;
 }
 
 /* article footer content */
 .article-footer {
   font-size: 0.85em;
   border-top: 1px solid #eee;
-  padding-top: 15px;
+  padding-top: 14px;
 }
 .article-footer:after { /* clearfix */
   content: " ";
