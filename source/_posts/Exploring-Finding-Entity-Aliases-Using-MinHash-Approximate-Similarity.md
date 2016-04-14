@@ -24,6 +24,6 @@ I tried using the [MinHash](https://en.wikipedia.org/wiki/MinHash) technique to 
 
 Next, I'm going to generate n-grams using model numbers from the products file and doing a plain old [Jaccard similarity coefficient](https://en.wikipedia.org/wiki/Jaccard_index) instead.  Hopefully, that can let me group listings for the same model together.
 
-I'll  probably come back to this code and try using it for another problem with long texts.  The examples of MinHash I've seen are on longer documents where they use shingles(n-grams where n > 1) instead of just unigrams.
+I'll come back to this code and validate using longer texts.  The examples of MinHash I've seen are all on longer documents where they use shingles(n-grams where n > 1) instead of just unigrams.
 
 [Messy Source Code](https://github.com/DForshner/CSharpExperiments/blob/master/FindingEntityAliasesUsingMinHashApproximateDocumentSimilarity.cs)

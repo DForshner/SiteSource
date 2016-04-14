@@ -17,7 +17,7 @@ I'm assuming that a *typical* product listing generally has one model number (un
 
 From what I'm seeing so far, it seems to be possible to classify accessory listings that have a high ratio of unique terms.
 
-*Note: I would have used a histogram graph but I couldn't get the google charts histogram to work with a custom scale.*
+**Note:** *I wanted to use a histogram but I couldn't get the hexo google charts plugin to make a histogram with a custom scale* 😕
 
 **Examples of product listings:**
 
