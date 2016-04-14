@@ -2,8 +2,8 @@
 title: Ensemble Learning Basics
 date: 2015-11-19 18:00:00
 tags:
-  - Data Science
-  - Meetup
+- Data Science
+- Meetup
 ---
 Interesting talk about how ensemble learning was used in the Netflix contest and a short presentation on statistical bootstrapping.
 - The basic idea is that multiple models are used and they are fitted to the data they work best with.

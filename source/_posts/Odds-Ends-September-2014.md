@@ -2,8 +2,8 @@
 title: Odds & Ends - September 2014
 date: 2014-09-01 00:00:00
 tags:
-  - Random
-  - Odds & Ends
+- Random
+- Odds & Ends
 ---
 Thoughts, terms, and ideas I've come across over the last few months.
 

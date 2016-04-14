@@ -2,7 +2,7 @@
 title: Avoid Overlapping Footprints
 date: 2009-03-03 00:00:00
 tags:
- - Electronics
+- Electronics
 ---
 I'm having problems while trying to do a power test for customer's board.  The voltage measurements I'm reading on the +5VDC test point is too high (5.43VDC) and the current draw during start-up was 49.2ma when it should have been around 30ma.
 

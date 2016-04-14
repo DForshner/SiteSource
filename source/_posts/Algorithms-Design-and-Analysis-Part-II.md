@@ -2,9 +2,9 @@
 title: 'Algorithms Design and Analysis - Part 2'
 date: 2015-05-29 13:23:00
 tags:
-  - Courses
-  - MOOC
-  - μReview
+- Courses
+- MOOC
+- μReview
 ---
 - Tim Roughgarden does an amazing job explaining how different algorithms work and the problems they are trying to solve.
 - Great graph section covering different minimum spanning tree and shortest path algorithms.

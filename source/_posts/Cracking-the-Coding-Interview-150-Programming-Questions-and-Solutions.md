@@ -2,8 +2,8 @@
 title: 'Cracking the Coding Interview: 150 Programming Questions and Solutions'
 date: 2015-01-27 00:00:00
 tags:
-  - Books
-  - μReview
+- Books
+- μReview
 ---
 If I had to pick one book to prepare for coding interviews with it would be this one.
 

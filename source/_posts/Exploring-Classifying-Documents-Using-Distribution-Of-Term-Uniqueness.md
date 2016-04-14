@@ -2,8 +2,8 @@
 title: Exploring Classifying Documents Using Distribution Of Term Probabilities
 date: 2016-04-07 00:00:00
 tags:
-  - Exploring
-  - Natural Language Processing
+- Natural Language Processing
+- Exploring
 ---
 I'm looking a way to classify product listings as either a product or a product accessory.  My current idea is to classify listings based on how their term probabilities are distributed.
 

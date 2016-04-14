@@ -2,8 +2,8 @@
 title: What Google Learned From Its Quest to Build the Perfect Team
 date: 2016-02-25 18:31:15
 tags:
-  - Empirical Studies
-  - Software Development Practices
+- Empirical Studies
+- Software Development Practices
 ---
 An amazing New York Times article on what makes an effective team.  There were two key things they noticed about effective teams:
 

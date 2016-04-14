@@ -1,8 +1,8 @@
 title: Card Sorting
 date: 2016-04-08 00:00:00
 tags:
-  - Meetup
-  - User Experience Design
+- Meetup
+- User Experience Design
 ---
 The session centered on using the  [card sorting](https://en.wikipedia.org/wiki/Card_sorting) to develop intuitive layouts.  For example, developing a website navigation structure that is obvious to users.  Card sorting is considered a brainstorming step, so it's important that users focus on grouping into categories and not on designing the site.
 

@@ -2,8 +2,8 @@
 title: Exploring Probabilistic Data Structures
 date: 2014-05-25 00:00:00
 tags:
-  - Exploring
-  - Data Structures
+- Exploring
+- Data Structures
 ---
 The Bloom filter and Count-Min Sketch data structures keep cropping while I'm reading so I figured I would try to implement them.  They are both part of a family of probabilistic data structures that give up accuracy to store a lot of information in a tiny amount of space.
 

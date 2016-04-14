@@ -2,7 +2,7 @@
 title: Avoid disregarding data sheets
 date: 2009-03-09 00:00:00
 tags:
- - Electronics
+- Electronics
 ---
 
 There is a problem with high-efficiency LED drivers used for a lighting product.  One of the final steps in the build is to reduce the current to a set point, but this is causing the units to start strobing on/off.

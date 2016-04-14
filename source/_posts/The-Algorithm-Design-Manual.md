@@ -2,9 +2,9 @@
 title: The Algorithm Design Manual
 date: 2015-06-01 00:00:00
 tags:
-  - Books
-  - Algorithms
-  - μReview
+- Books
+- Algorithms
+- μReview
 ---
 Two books in one!
 * A guide on how to approach solving problems.

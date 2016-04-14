@@ -2,8 +2,8 @@
 title: Exploring Shannon's Prediction And Entropy Of Printed English Paper
 date: 2016-03-29 00:00:00
 tags:
-  - Exploring
-  - Natural Language Processing
+- Natural Language Processing
+- Exploring
 ---
 Tried and mostly failing to replicate the results from [Shannon's paper](http://languagelog.ldc.upenn.edu/myl/Shannon1950.pdf) using War and Peace as a stand in for "The English Language".
 

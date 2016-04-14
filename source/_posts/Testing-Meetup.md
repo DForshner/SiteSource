@@ -2,7 +2,7 @@
 title: Unit Testing
 date: 2013-02-31 00:00:00
 tags:
-  - Testing
+- Testing
 ---
 Notes from a .Net user group talk on unit testing.
 

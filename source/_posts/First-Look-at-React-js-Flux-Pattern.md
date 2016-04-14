@@ -2,8 +2,8 @@
 title: First Look at React.js & Flux Pattern
 date: 2015-03-13 00:00:00
 tags:
-  - React
-  - ECMAScript
+- React
+- ECMAScript
 ---
 I took a crack at creating dashboards using Facebook's React & Flux libraries.
 

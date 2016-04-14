@@ -2,8 +2,8 @@
 title: Feature Extraction
 date: 2015-12-10 18:00:00
 tags:
-  - Data Science
-  - Meetup
+- Data Science
+- Meetup
 ---
 Talk about how to turn raw data into features to use in learning and modelling and a short presentation on linear modelling.
 - Adding new features that describe how the data changes over time (ex: position/velocity/acceleration/jerk).

@@ -2,8 +2,8 @@
 title: Why Should Software Architects Write Code
 date: 2016-02-24 18:31:15
 tags:
-  - Empirical Studies
-  - Software Development Practices
+- Empirical Studies
+- Software Development Practices
 ---
 This seems like common sense but I haven't encountered a non-coding architect as of yet.
 

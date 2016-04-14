@@ -2,7 +2,7 @@
 title: Returning ptr to stack vs. heap allocated instance in C++
 date: 2012-10-01 00:00:00
 tags:
-  - C++
+- C++
 ---
 
 {% codeblock lang:c %}

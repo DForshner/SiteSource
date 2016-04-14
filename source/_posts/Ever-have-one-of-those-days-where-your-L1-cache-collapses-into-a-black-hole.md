@@ -2,7 +2,7 @@
 title: Ever have one of those days where your L1 cache collapses into a black hole?
 date: 2015-02-12 18:20:47
 tags:
-  - Complexity
+- Complexity
 ---
 Interesting look at how to incorporate the cost of random access into complexity estimates.
 

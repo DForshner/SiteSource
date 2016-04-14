@@ -2,8 +2,8 @@
 title: 'Elements of Programming Interviews: 300 Questions and Solutions'
 date: 2015-01-27 00:00:00
 tags:
-  - Books
-  - μReview
+- Books
+- μReview
 ---
 Not having a formal computer science background I found working through this book difficult but well worth the time. If you are also largely self-taught I'd recommend working through "Cracking the Coding interview" in parallel. I found the problems in CTCI a bit easier with better explanations which helped me to tackle the problems in this book.
 

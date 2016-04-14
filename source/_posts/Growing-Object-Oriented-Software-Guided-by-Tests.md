@@ -2,8 +2,8 @@
 title: 'Growing Object-Oriented Software, Guided by Tests'
 date: 2015-08-27 00:00:00
 tags:
-  - Books
-  - μReview
+- Books
+- μReview
 ---
 - Does a great job of showing how to use TDD and interfaces to build an application in pieces.
 - I think it presents a more realistic picture of software development than most books by showing you how code evolves as you work on it.

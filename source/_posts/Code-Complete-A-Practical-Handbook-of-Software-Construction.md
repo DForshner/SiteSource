@@ -2,8 +2,8 @@
 title: 'Code Complete: A Practical Handbook of Software Construction'
 date: 2015-01-01 00:00:00
 tags:
-  - Books
-  - μReview
+- Books
+- μReview
 ---
 - I'm forever recommending people buy this book.
 - Great advice on managing complexity and writing code you can understand in a year.

@@ -2,8 +2,8 @@
 title: Raft Understandable Distributed Consensus
 date: 2015-10-11 00:00:00
 tags:
-  - Visual Learning
-  - Distributed Systems
+- Visual Learning
+- Distributed Systems
 ---
 This is one of best examples I've seen yet of using visualizations to explain something.  
 

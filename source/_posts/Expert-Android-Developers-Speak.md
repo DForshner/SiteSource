@@ -2,8 +2,7 @@
 title: Expert Android Developers Speak
 date: 2015-12-03 19:00:00
 tags:
-  - GDG
-  - Meetup
+- Meetup
 ---
 Presentations on Kotlin and using JNI for android development.
 - I really like Kotlin's idea of separating nullable and non-nullable references.  It seems similar to the option/maybe monad idea (apologies if you design type systems and languages).

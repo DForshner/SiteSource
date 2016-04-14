@@ -2,8 +2,8 @@
 title: 'Design Patterns: Elements of Reusable Object-Oriented Software'
 date: 2015-06-01 00:00:00
 tags:
-  - Books
-  - μReview
+- Books
+- μReview
 ---
 - Most of the patterns revolve around solving problems in the GUI domain using a static language.
 - This strikes me as one of those books everyone says to read but havent' read themselves.

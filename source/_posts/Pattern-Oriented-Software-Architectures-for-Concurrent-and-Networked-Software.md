@@ -2,9 +2,9 @@
 title: Pattern Oriented Software Architectures for Concurrent and Networked Software
 date: 2013-05-14 00:00:00
 tags:
-  - Courses
-  - MOOC
-  - μReview
+- Courses
+- MOOC
+- μReview
 ---
 - Gives a sense for how patterns evolve depending on their environment and the problem they are trying to address.
 - Shows how patterns evolve from language level to framework level constructs.

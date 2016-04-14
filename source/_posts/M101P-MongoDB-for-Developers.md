@@ -2,9 +2,9 @@
 title: M101P MongoDB for Developers
 date: 2014-11-04 00:00:00
 tags:
-  - Courses
-  - MOOC
-  - μReview
+- Courses
+- MOOC
+- μReview
 ---
 - Good course on how to build APIs with python and mongoDB. 
 - Does a good job explaining the sweet spot where document databases work well.

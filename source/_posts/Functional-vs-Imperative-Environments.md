@@ -2,7 +2,7 @@
 title: Functional vs. Imperative Environments
 date: 2013-02-23 00:00:00
 tags:
-  - Functional Programming
+- Functional Programming
 ---
 What is the primary building block of your programs?
 

@@ -2,8 +2,8 @@
 title: Google I/O Extended 2013
 date: 2013-05-18 00:00:00
 tags:
-  - Conferences
-  - Interviewing
+- Conferences
+- Interviewing
 ---
 Notes from the Google I/O Extended conference at Google's Kitchener location.  I went to the workshops on interviewing at Google, Google Fiber and multi-touch interfaces.
 

@@ -2,13 +2,13 @@
 title: 'Hiring Hacks: How Stack Overflow Interviews Engineers'
 date: 2015-12-16 00:00:00
 tags:
-  - Interviewing
+- Interviewing
 ---
 Notes from a webinar by Matt Sherman, Engineering Manager at Stack Overflow, on the company’s technical interview process.
 
-Key Traits to look for: Smart and gets things done.
+Key Traits to look for: **Smart and gets things done**
 
-General principals
+**General principals**
   * Not a quiz! No gotchas! No brain teasers!
   * You want to start a conversation that reveals how they think.
   * Choose problems that lead to good conversations!
@@ -31,44 +31,44 @@ General principals
     * Provide list of books to read and things to work on
     * NOTHING PERSONAL! (Legal Issues) 
 	
-Interview process
-* Step 1 - Resume Review
-  * [T]argeted - Is this a targeted application or a generic mass mailing?  Why do they want to work here?
-  * [E]experienced - 4+ yrs. full stack
-  * [D]epth - Tech is a stack of layers.  They use the software but they also know how to go deeper into guts of the system.
-  * [P]assion - Do they enjoy programming?  Do they make games?  Code for fun?
-  * [G]ets Things Done - Do they get things out the door?  Do they finish projects/products?
-* Step 2 - Remote Code Screen
+**Interview process**
+1. Resume Review
+  * **T**argeted - Is this a targeted application or a generic mass mailing?  Why do they want to work here?
+  * **E**experienced - 4+ yrs. full stack
+  * **D**epth - Tech is a stack of layers.  They use the software but they also know how to go deeper into guts of the system.
+  * **P**assion - Do they enjoy programming?  Do they make games?  Code for fun?
+  * **G**ets Things Done - Do they get things out the door?  Do they finish projects/products?
+2. Remote Code Screen
   * 30 min over hangouts using a shared document.
   * Should be intentionally easy.  
   * Any day to day programmer should be able to do it.
-* Step 3 - Smart interview
+3. Smart interview
   * In-depth algorithm question
   * How much complexity can they keep in their head at once time?
   * Encourage them to think out loud.  It's a conversation.
   * Make it clear you want to know their thought process, not the answer.  It's fine if they get it wrong and go back.
-* Step 4 - Gets things done interview
+4. Gets things done interview
   * A larger system design question.
   * At an architectural/high-level design an entire application.
   * Look at a system and understand what each part is and how they work together.
   * DB (SQL) + Web Server (C#/Ruby/etc.) + Browser (JS/HTML)
   * Look for both breadth and macro understanding.
   * Full-stack - They could do the whole thing on their own.
-* Step 5 - Product management interview
+5. Product management interview
   * Talk to the people who decide what the products are.
   * Do they understand users and the business?
   * Do they care about customers?
   * How would you design and test this product?
   * How would you know if this product was successful?
   * A lot of engineers do product management at some point.
-* Step 6 - Executive interviews
+6. Executive interviews
   * It's your turn to sell yourself and convince them they want to work here.
   * They probably have other offers.
   * Start talking about a team they might fit on.
-* Step 7 - Make an offer  
+7. Make an offer  
   * Important to have a fast turnaround.
 
-Finding candidates
+**Finding candidates**
 * Have a good brand
   * Recruiters are your brand! 
   * Go to events/meetups.

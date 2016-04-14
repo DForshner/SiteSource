@@ -2,7 +2,7 @@
 title: Left Pad Liberation
 date: 2016-03-23 00:00:00
 tags:
-  - Web
+- Web
 ---
 It looks like npm removed a module to avoid possible brand infringement leading to the author removing all of his modules from npm.  Among the modules removed is a widely used module called 'left-pad' which triggered a cascade of build failures in some of the most popular projects on npm.
 

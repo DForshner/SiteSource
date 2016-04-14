@@ -2,7 +2,7 @@
 title: Going back to school
 date: 2009-08-09 00:00:00
 tags:
- - Courses
+- Courses
 ---
 I'm enrolled at the University of Calgary in an electrical engineering post graduate diploma program with the eventual goal of switching into the biomedical engineering masters program.
 

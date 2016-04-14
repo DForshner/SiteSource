@@ -2,8 +2,8 @@
 title: 'Ace the Programming Interview: 160 Questions and Answers for Success'
 date: 2015-01-27 00:00:00
 tags:
-  - Books
-  - μReview
+- Books
+- μReview
 ---
 - Good choice for entry level positions and for companies that are not doing "program a whiteboard" style interviews.
 - Coding problems are fairly simple compared to other interview books. 

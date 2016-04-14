@@ -2,9 +2,9 @@
 title: Software Engineering as a Service
 date: 2012-04-01 00:00:00
 tags:
-  - Courses
-  - MOOC
-  - μReview
+- Courses
+- MOOC
+- μReview
 ---
 - I was impressed with how quickly I was able to put something together with Ruby on Rails.
 - It seems like the course has disappeared from Coursera and moved to edX?

@@ -2,8 +2,8 @@
 title: Introduction to Meteor.js
 date: 2013-03-16 00:00:00
 tags:
-  - Meetup
-  - ECMAScript
+- Meetup
+- ECMAScript
 ---
 Notes from a presentation on Meteor.js.  I'm dubious about this one.  History hasn't been kind to technologies that promise to hide/erase the boundaries between client and server.
 

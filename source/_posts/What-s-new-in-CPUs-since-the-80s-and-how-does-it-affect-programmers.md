@@ -2,7 +2,7 @@
 title: "What's new in CPUs since the 80s and how does it affect programmers?"
 date: 2015-03-15 00:00:00
 tags:
- - Optimization
+- Optimization
 ---
 Amazing post about how CPU and memory architecture has changed over the years.
 

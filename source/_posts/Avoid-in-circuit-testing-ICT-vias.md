@@ -2,7 +2,7 @@
 title: Avoid in-circuit testing (ICT) vias
 date: 2009-01-09 00:00:00
 tags:
- - Electronics
+- Electronics
 ---
 I've been stuck on a problem with a tester for a digital signal processor board we build for a customer.
 

@@ -2,9 +2,9 @@
 title: Exploring Finding Entity Aliases Using MinHash Approximate Similarity
 date: 2016-04-12 00:00:00
 tags:
-  - Exploring
-  - Failure
-  - Natural Language Processing
+- Natural Language Processing
+- Exploring
+- Failure
 ---
 I'm trying to generate a list of aliases for entities by finding similar documents that have different entity names as attributes.  Assuming that an entity has multiple similar documents associated with it that are listed under its different aliases I should be able to generate a set of aliases by grouping similar documents together.
 

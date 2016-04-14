@@ -2,7 +2,7 @@
 title: SortedList vs. SortedDictionary
 date: 2013-02-13 00:00:00
 tags:
-  - Data Structures
+- Data Structures
 ---
 Both are useful if you need to iterate over elements in sorted order.  As a rule of thumb if you creating it once and not modifying it than a SortedList has a faster construction time and uses less memory than a SortedDictionary.
 

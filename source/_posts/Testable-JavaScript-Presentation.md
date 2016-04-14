@@ -2,9 +2,9 @@
 title: Testable JavaScript Presentation
 date: 2013-11-11 00:00:00
 tags:
-  - Random
-  - ECMAScript
-  - Testing
+- Random
+- ECMAScript
+- Testing
 ---
 Mark Trostler has a [great presentation](http://www.infoq.com/presentations/javascript-testing) on creating testable JavaScript.
 

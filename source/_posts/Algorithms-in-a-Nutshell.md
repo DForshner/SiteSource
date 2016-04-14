@@ -2,8 +2,8 @@
 title: Algorithms in a Nutshell
 date: 2015-06-01 00:00:00
 tags:
-  - Books
-  - μReview
+- Books
+- μReview
 ---
 - Good coverage of a wide variety of algorithms and data structures.
 - Convenient size for taking on the plane to read.
