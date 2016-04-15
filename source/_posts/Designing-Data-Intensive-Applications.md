@@ -3,9 +3,9 @@ title: Designing Data-Intensive Applications
 date: 2016-04-04 00:00:00
 tags:
 - Books
+- Review
 - Distributed Systems
 - Databases
-- μReview
 ---
 This [book](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications?utm_medium=api&utm_source=blog_book) is still in pre-release so I've only been able to go through the first nine chapters.  It breaks a confusing field into logical pieces and then shows you how they fit together.  I'd recommend it to anyone who interested in databases or distributed systems.
 
