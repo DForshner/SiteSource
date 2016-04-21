@@ -22,12 +22,12 @@ After reading this, I don't think microservices are a good fit for the products 
 3. *How to Model Services*
   * By aligning services to the seams between bounded contexts we ensure the services are built around relatively stable boundaries.
 4. *Integration*
-  * Expand Only Types - Types sent over the wire using binary serialization can become a mass of fields, some of which are no longer used but can't be removed safely.
+  * <u>Expand Only Types</u> - Types sent over the wire using binary serialization can become a mass of fields, some of which are no longer used but can't be removed safely.
   * Don't violate DRY within a microservice, but be relaxed about violating DRY across services.  The evils of too much coupling between services are far worse than the problems caused by code duplication.
-  * The Strangler Pattern - Capture and intercept calls to the old system and either route these calls the existing or new code.  This allows you to replace functionality over time instead of doing a re-write.
+  * <u>The Strangler Pattern</u> - Capture and intercept calls to the old system and either route these calls the existing or new code.  This allows you to replace functionality over time instead of doing a re-write.
   * Database integration makes it very hard to avoid breaking changes.  Prefer REST because changes to internal implementation detail are less likely to result in a change to the service interface.
-  * Tolerant Reader - A reader able to ignore changes we don't care about.
-  * Semantic Versioning - Outlines the expectations of clients can have of changes to the API and simplifies the process of communicating about whether changes should impact consumers.
+  * <u>Tolerant Reader</u> - A reader able to ignore changes we don't care about.
+  * <u>Semantic Versioning</u> - Outlines the expectations of clients can have of changes to the API and simplifies the process of communicating about whether changes should impact consumers.
 5. *Splitting the Monolith*
   * Bounded contexts make great seams because they represent cohesive  units that are the loosely coupled boundaries in an organization.
 6. *Deployment*
@@ -35,22 +35,22 @@ After reading this, I don't think microservices are a good fit for the products 
   * One source control repository, one CI build, and one host/container per service.
   * Culture of automation is key to managing everything.
 7. *Testing*
-  * Service Test - Test a slice of functionality across the whole service but isolate yourself from other services by using stubbed collaborators.
-  * Normalization of deviance - Over time we become accustomed to things being wrong and we start to accept that as being normal and not a problem.  Ex: flakey tests, alarms that should be warnings, etc.
+  * <u>Service Test</u> - Test a slice of functionality across the whole service but isolate yourself from other services by using stubbed collaborators.
+  * <u>Normalization of deviance</u> - Over time we become accustomed to things being wrong and we start to accept that as being normal and not a problem.  Ex: flakey tests, alarms that should be warnings, etc.
   * Anything that causes multiple service versions to be deployed in a specific order will eventually destroy the ability to deploy one service by itself.
   * Focus on a small number of core journeys to test for the whole system when developing end-to-end tests.
-  * Consumer-Driven Tests - Capture the expectations of how a consumer will use a service in tests to make sure that when new versions of the service go to production it won't break consumers.
-  * Smoke tests - Set of tests designed to run against newly deployed software to confirm the deployment worked.
-  * Blue/Green Deployment - Have two copies of software deployed at the same time, but only one version if receiving real requests.  Allows you to switch back quickly if something goes wrong.
-  * Canary Releasing - Verify a deployment by directing small amounts of production traffic against to see if it performs as expected.  Can send either divert a portion of real traffic or can shadow production traffic and direct it to the canary.
-  * Optimizing mean time between failures (MTBF) vs. mean time to repair (MTTR) - Expending the same effort into getting better at remediation of a release can be more beneficial than adding more automated tests.
+  * <u>Consumer-Driven Tests</u> - Capture the expectations of how a consumer will use a service in tests to make sure that when new versions of the service go to production it won't break consumers.
+  * <u>Smoke tests</u> - Set of tests designed to run against newly deployed software to confirm the deployment worked.
+  * <u>Blue/Green Deployment</u> - Have two copies of software deployed at the same time, but only one version if receiving real requests.  Allows you to switch back quickly if something goes wrong.
+  * <u>Canary Releasing</u> - Verify a deployment by directing small amounts of production traffic against to see if it performs as expected.  Can send either divert a portion of real traffic or can shadow production traffic and direct it to the canary.
+  * <u>Optimizing mean time between failures (MTBF) vs. mean time to repair (MTTR)</u> - Expending the same effort into getting better at remediation of a release can be more beneficial than adding more automated tests.
 8. *Monitoring*
-  * Service metrics - Generate service specific events for monitoring. Examples: web requests, number of times customers view past orders, transactions per second, etc.
-  * Synthetic transaction - A fake event inserted into the system to show the it is still working.  Like a heartbeat.
+  * <u>Service metrics</u> - Generate service specific events for monitoring. Examples: web requests, number of times customers view past orders, transactions per second, etc.
+  * <u>Synthetic transaction</u> - A fake event inserted into the system to show the it is still working.  Like a heartbeat.
   * Correlation ids allow us to reconstruct the flow of calls in order to reproduce and fix a problem.  Allows us to trace inter-service calls.
   * At a minimum track inbound response time, error rates, and the response times of downstream calls.
 9. *Security*
-   * Confused deputy problem - A malicious party tricks a deputy service into making calls to a downstream service on their behalf.
+   * <u>Confused deputy problem</u> - A malicious party tricks a deputy service into making calls to a downstream service on their behalf.
   * Many high profile security breaches involve data at rest being acquired by an attacker and that data being readable by that attacker.
   * Prevent services from allowing bulk retrieval of customer data.
   * VPNs allow us to segregate the network by team and/or risk level.
