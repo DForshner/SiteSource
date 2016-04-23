@@ -3,7 +3,7 @@ title: Building Microservices Review
 date: 2016-02-04 00:00:00
 tags:
 - Books
-- Review
+- Reviews
 - Software Architectures
 - Distributed Systems
 ---

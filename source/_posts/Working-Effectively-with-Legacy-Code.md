@@ -3,7 +3,7 @@ title: Working Effectively with Legacy Code Review
 date: 2015-01-01 00:00:00
 tags:
 - Books
-- Review
+- Reviews
 - Testing
 ---
 This book is about bringing your existing code under test so you can make changes without losing your mind.  Most books present a kind of clean room/fait accompli image of testing.  This book shows you how to crawl through the trenches struggling for some small incremental victory against the hordes of complexity and bit rot that surround your position.  I guess what I'm trying to say is you should buy this book.

@@ -2,11 +2,11 @@
 title: Exploring Finding Entity Aliases Using MinHash Approximate Similarity
 date: 2016-04-12 00:00:00
 tags:
-- Natural Language Processing
-- Exploring
-- Failure
+  - Exploring
+  - Failure
+  - Natural Language Processing
 ---
-I'm trying to generate a list of aliases for entities by finding similar documents that have different entity names as attributes.  Assuming that an entity has multiple similar documents associated with it that are listed under its different aliases I should be able to generate a set of aliases by grouping similar documents together.
+I tried to use a MinHash to group similar product listings, but it didn't work out.  I was trying to generate a list of aliases for entities by finding similar documents that have different entity names as attributes.  Assuming that an entity has multiple similar documents associated with it that are listed under its different aliases I should be able to generate a set of aliases by grouping similar documents together.
 
 The data I'm working with has multiple versions of the same manufacturer.
 
@@ -24,6 +24,6 @@ I tried using the [MinHash](https://en.wikipedia.org/wiki/MinHash) technique to 
 
 Next, I'm going to generate n-grams using model numbers from the products file and doing a plain old [Jaccard similarity coefficient](https://en.wikipedia.org/wiki/Jaccard_index) instead.  Hopefully, that can let me group listings for the same model together.
 
-I'll come back to this code and validate using longer texts.  The examples of MinHash I've seen are all on longer documents where they use shingles(n-grams where n > 1) instead of just unigrams.
+I'll  probably come back to this code and try using it for another problem with long texts.  The examples of MinHash I've seen are on longer documents where they use shingles(n-grams where n > 1) instead of just unigrams.
 
 [Messy Source Code](https://github.com/DForshner/CSharpExperiments/blob/master/FindingEntityAliasesUsingMinHashApproximateDocumentSimilarity.cs)

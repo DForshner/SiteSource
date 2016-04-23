@@ -3,7 +3,7 @@ title: Designing Data-Intensive Applications Review
 date: 2016-04-04 00:00:00
 tags:
 - Books
-- Review
+- Reviews
 - Distributed Systems
 - Databases
 ---
