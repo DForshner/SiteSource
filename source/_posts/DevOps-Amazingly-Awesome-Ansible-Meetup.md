@@ -27,4 +27,5 @@ Random Notes:
 * <u>Ansible Vault</u> will encrypt data so it can be stored with the rest of the application code in source control.  It will only be decrypted when Ansible is provisioning a box.
 * Could install Ansible on the load balancer which will have access to inner boxes.
 
+[My Progress](https://github.com/DForshner/ansible-workshop-deploy)
 [Meetup Event](http://www.meetup.com/boltmade-sessions/events/230344829/?rv=cr1&_af=event&_af_eid=230344829&https=off)
