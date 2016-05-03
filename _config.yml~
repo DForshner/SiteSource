@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "~Blog"
-subtitle: "David Forshner's notebook/bookmarks/random"
-description: "David Forshner's notebook/bookmarks/random"
+title: "~ Blog"
+subtitle: "David Forshner's blog/notebook/bookmarks/random"
+description: "David Forshner's blog/notebook/bookmarks/random"
 author: David Forshner
 language:
 timezone: UTC
@@ -57,7 +57,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 7
+per_page: 5
 pagination_dir: page
 
 # Deployment
@@ -65,32 +65,67 @@ pagination_dir: page
 deploy:
   type:
 
-# Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+- hexo-math
+
 ## Themes: https://hexo.io/themes/
-theme: bootstrap-blog 
+theme: bootstrap-custom
 
 # https://github.com/hexojs/hexo-generator-sitemap
 sitemap:
-    path: sitemap.xml
+  path: sitemap.xml
+
+math:
+  engine: 'katex'
+  katex:
+    css: custom_css_source
+    js: custom_js_source
+    config:
 
 # Theme config
 theme_config:
   menu:
     Home: index.html
     Archives: archives
-    Github: https://github.com/dforshner/
-    Resume: /pdfs/Resume.pdf
+    GitHub: https://github.com/dforshner/
     LinkedIn: https://www.linkedin.com/in/dforshner/
+    Resume: /pdfs/Resume.pdf
+  menu_icons:
+    Home: fa fa-home
+    Archives: fa fa-archive
+    GitHub: fa fa-github-square
+    LinkedIn: fa fa-linkedin-square
+    Resume: fa fa-trophy
   widgets:
    - about
    - reading_list
    - tag
   fancybox: true
   google_analytics: UA-75403717-1
+  disqus_shortname: dforshner.disqus.com
   favicon: /images/favicon.png
   about_widget_content: >
-    <p>1/3 notebook 1/3 bookmarks 1/3 random</p>
+    <p>⅓ notebook ⅓ bookmarks ⅓ random</p>
 
 archive_type: 'yearly'
 show_count: true
+
+robotstxt:
+  useragent: "*"
+  allow: 
+    - /
+  disallow:
+    - /resume/
+    - /archives/
+    - /page/*/
+    - /categories/*/
+    - /tags/*/
+    - /js/
+    - /images/
+    - /*.jpg$
+    - /*.jpeg$
+    - /*.gif$
+    - /*.png$
+    - /*.bmp$
+  sitemap: sitemap.xml
