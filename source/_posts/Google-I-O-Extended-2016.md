@@ -17,7 +17,7 @@ Yesterday I attended the Google I/O Extended conference at their KW office.  Thi
   * When you work for a small company it's easier to have a unified view of what your product is and what the company represents.  There are a lot of passionate people at Google, and their passion is equally as capable as yours.
   * When you have a large existing customer base you can't just roll changes that affect user experience.  You have to run experiments.
   * Don't cast a wide net when asking for help.  Target specific people who may be able to help you.
-  * Don't buy into the message that says Canadian's don't make good entrepreneurs and don't aim high enough.  Be serious about being bold.
+  * Don't buy into the message that Canadians don't make good entrepreneurs and don't aim high enough.  Be serious about being bold.
 3. **Genomics & Cloud Platform**
   * Medical breakthroughs will come from the intersection of life science and data science.
   * Genomics API gives you higher level computational primitives and build applications that are infrastructure agnostic.
