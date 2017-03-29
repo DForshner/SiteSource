@@ -4,7 +4,7 @@ date: 2016-02-04 00:00:00
 tags:
 - Books
 - Reviews
-- Software Architectures
+- Software Architecture
 - Distributed Systems
 ---
 I thought I was getting a book on architecture patterns but I got a book on applying Conway's Law to an organization while migrating to microservices.  This book appears to be aimed at people working with a traditional n-tier architecture with a shared database who are having problems scaling both their application and organization.  The author gives a high-level overview of microservices and the patterns used but this book is about organizational change.

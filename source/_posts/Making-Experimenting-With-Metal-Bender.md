@@ -6,7 +6,7 @@ tags:
 - Makerspace
 - DIY
 ---
-I'd like to create some more decorative metal sculpture, so I picked up a metal bender.  I took me most of Sunday to make a removable wooden base for it and figure out how to do some basic bends.
+I'm interested in making some metal sculpture, so I picked up a metal bender.  I took me most of Sunday to make a removable wooden base for it and figure out how to do some basic bends.
 
 ![](/images/MetalBenderBase.jpg)
 
